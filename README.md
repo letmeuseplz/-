@@ -1,2 +1,2 @@
-# -verilog講義
+# -hdl講義  
 for rebecca 
